@@ -1,0 +1,13 @@
+{
+  "name": "Jbx-uri-resolver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:exhausted-pigeon-srl/Jbx-uri-resolver.git",
+  "author": "drgorillamd <dr_gorilla@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jbx-protocol/juice-721-delegate": "^4.0.1",
+    "@jbx-protocol/juice-contracts-v3": "^2.0.5",
+    "base64-sol": "^1.1.0"
+  }
+}
